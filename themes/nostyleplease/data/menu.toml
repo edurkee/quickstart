@@ -5,6 +5,9 @@ title = "info"
   title = "github repo"
   url = "https://github.com/riggraz/no-style-please"
 
+  [[entries.entries]]
+  title = "built with HUGO, Netlify, and Github"
+
 [[entries]]
 title = "all posts"
 
