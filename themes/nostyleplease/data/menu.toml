@@ -23,8 +23,4 @@ title = "posts by category"
   show_more_text = "See more posts..."
   show_more_url = "posts"
 
-[[entries]]
-title = "PRO TIP"
-entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
-  ]
+
