@@ -53,7 +53,7 @@ in our lives, I think it's still possible to maintain a healthy and appropriate 
 So, my New Year's Resolution (May 17, '23 - May 17 '24) is to incorporate more Type II Boredom into my life. Type II Boredom that will hopefully get me into 
 some shenanagins and be the source of stories, stuff, ideas, and projects.  
 
-05.11.23
+05.17.23
 
 ---
 

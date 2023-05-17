@@ -1,12 +1,15 @@
 [[entries]]
 title = "info"
 
+  [[entire.entries]]
+  title = "contact me: <a href = youcangetelliot@gmail.com>youcangetelliot@gmail.com"</a>
+
   [[entries.entries]]
   title = "github repo"
   url = "https://github.com/edurkee/quickstart"
 
   [[entries.entries]]
-  title = "built with HUGO, Netlify, and Github"
+  title = "Powered by HUGO, Netlify, Github, and a team of six reindeer"
 
 [[entries]]
 title = "all posts"
