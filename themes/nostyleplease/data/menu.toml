@@ -1,17 +1,17 @@
 [[entries]]
 title = "info"
 
-  [[entire.entries]]
+  [[entries.entries]]
   title = "contact me: youcangetelliot@gmail.com"
   url = "youcangetelliot@gmail.com"
 
   [[entries.entries]]
+  title = "Powered by HUGO, Netlify, Github, and a team of six reindeer"
+  
+  [[entries.entries]]
   title = "github repo"
   url = "https://github.com/edurkee/quickstart"
-
-  [[entries.entries]]
-  title = "Powered by HUGO, Netlify, Github, and a team of six reindeer"
-
+  
 [[entries]]
 title = "all posts"
 
