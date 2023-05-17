@@ -2,7 +2,8 @@
 title = "info"
 
   [[entire.entries]]
-  title = "contact me: <a href = youcangetelliot@gmail.com>youcangetelliot@gmail.com"</a>
+  title = "contact me: youcangetelliot@gmail.com"
+  url = "youcangetelliot@gmail.com"
 
   [[entries.entries]]
   title = "github repo"
