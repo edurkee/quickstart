@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>so glad you could make it</title>
+    <title>going on an adventure!</title>
     <link>http://elliotdurkee.com/</link>
-    <description>Recent content on so glad you could make it</description>
+    <description>Recent content on going on an adventure!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="http://elliotdurkee.com/index.xml" rel="self" type="application/rss+xml" />
@@ -16,30 +16,6 @@
       <description>C diatonic harmonica
 5 -5 6 6 -5 6 -5 5 -4 4 4 -5 5 -4 4 -4 5 5 -5 6 6 -5 6 -5 5 -4 4 4 -5 5 -4 4 -3 4
 6 6 6 6 6 6 6 7 6 6 6 repeat above 6 6 -6 6 -5 5 6 5 -5 5 -4 4 4 -3 3 -4 4 -3 3 -3 4</description>
-    </item>
-    
-    <item>
-      <title>VarietiesofBoredom.md</title>
-      <link>http://elliotdurkee.com/posts/boredom/</link>
-      <pubDate>Tue, 16 May 2023 23:01:41 -0400</pubDate>
-      
-      <guid>http://elliotdurkee.com/posts/boredom/</guid>
-      <description>At least, there are two types of boredom.
-Type I Boredom:
-You are picking rosemary off of sprigs. Filling out piles of paperwork. Doing homework that is too easy for you.
-You are tired of what it is you are doing. You would very much rather be doing something else&amp;ndash;anything else.
-Type II Boredom:
-You have nothing to do, and you&amp;rsquo;re not exactly sure what to do. The experiental equivalent of when you&amp;rsquo;re hungry, but there&amp;rsquo;s nothing in the fridge that you want to eat.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>http://elliotdurkee.com/posts/first-post/</link>
-      <pubDate>Sun, 14 May 2023 22:55:17 -0400</pubDate>
-      
-      <guid>http://elliotdurkee.com/posts/first-post/</guid>
-      <description>May 5, 2023:
-My first site post. Now is the question of what goes here?</description>
     </item>
     
   </channel>
