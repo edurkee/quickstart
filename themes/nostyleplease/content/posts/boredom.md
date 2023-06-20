@@ -1,7 +1,7 @@
 ---
 title: "VarietiesofBoredom.md"
 date: 2023-05-16T23:01:41-04:00
-draft: False
+draft: true
 ---
 
 At least, there are two types of boredom.
