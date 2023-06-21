@@ -1,7 +1,7 @@
 ---
 title: "I Don't Want to Live on the Moon, Harmonica Tab"
 date: 2023-06-08T16:54:06-04:00
-draft: false
+draft: true
 ---
 
 C diatonic harmonica
