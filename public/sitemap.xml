@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://elliotdurkee.com/posts/firstday/</loc>
-    <lastmod>2023-06-22T05:54:59+08:00</lastmod>
+    <loc>http://elliotdurkee.com/posts/june22-24/</loc>
+    <lastmod>2023-06-24T23:12:59+08:00</lastmod>
   </url><url>
     <loc>http://elliotdurkee.com/posts/</loc>
+    <lastmod>2023-06-24T23:12:59+08:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/posts/firstday/</loc>
     <lastmod>2023-06-22T05:54:59+08:00</lastmod>
   </url><url>
     <loc>http://elliotdurkee.com/posts/en-route-to-taipei/</loc>
