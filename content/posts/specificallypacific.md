@@ -58,7 +58,7 @@ keep cultivating these experiences by making “Yes” the default.
 
 -------------------------------------------------------------------------
 
-And also: my new favorite coffee-shop bathroom sign (ahead of Heartwood’s 
+Misc.: my new favorite coffee-shop bathroom sign (ahead of Heartwood’s 
 coffee-love-languages) says in very simple black and white:
 
 												
