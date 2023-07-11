@@ -14,21 +14,23 @@ title = "info"
   [[entries.entries]]
   title = "github repo"
   url = "https://github.com/edurkee/quickstart"
-  
-[[entries]]
-title = "all posts"
-
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "posts"
 
 [[entries]]
-title = "post categories"
+title = "content categories"
 
   [[entries.entries]]
   title = "taiwan blog"
   url = "/posts/taiwanblog/"
 
+  [[entries.entries]]
+  title = "photo album"
+  url = "/posts/photo_album/"
 
+[[entries]]
+title = "all posts"  
+  
+  [entries.post_list]
+  limit = 5
+  show_more = true   
+  show_more_text = "See archive..."
+  show_more_url = "posts"
