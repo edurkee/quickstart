@@ -29,6 +29,6 @@ title = "post categories"
 
   [[entries.entries]]
   title = "taiwan blog"
-  url = "elliotdurkee.com/posts/taiwanblog/"
+  url = "/posts/taiwanblog/"
 
 
