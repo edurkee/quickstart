@@ -19,7 +19,11 @@ title = "info"
 title = "content categories"
 
   [[entries.entries]]
-  title = "taiwan blog"
+  title = "taiwan blog through archives folder (for testing purposes)"
+  url = "/archives/taiwanblog/"
+
+  [[entries.entries]]
+  title = "taiwan blog redirect through posts folder"
   url = "/posts/taiwanblog/"
 
   [[entries.entries]]
