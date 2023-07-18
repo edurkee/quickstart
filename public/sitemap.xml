@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://elliotdurkee.com/posts/photo_album/</loc>
-    <lastmod>2023-07-12T00:33:35+08:00</lastmod>
-  </url><url>
     <loc>http://elliotdurkee.com/posts/</loc>
+    <lastmod>2023-07-18T22:23:10+08:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/posts/taiwanblog/tainan_and_kaohsiung/</loc>
+    <lastmod>2023-07-18T22:23:10+08:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/posts/photo_album/</loc>
     <lastmod>2023-07-12T00:33:35+08:00</lastmod>
   </url><url>
     <loc>http://elliotdurkee.com/posts/taiwanblog/</loc>
