@@ -21,7 +21,7 @@ whole bunch of other things that keep them from dying underwater, or more likely
 looking at fish. 
 
 Joe really knew his stuff, and he took teaching seriously. He only started diving eight or so years ago, but in his first year 
-completed over three hundred dives, which are insane stats. Before opeing his dive shop, he was a butcher in Norway, where he said he 
+completed over three hundred dives, which are insane stats. Before opening his dive shop, he was a butcher in Norway, where he said he 
 made a lot more money (??), but didn't enjoy what he was doing. Now, he lives in the tiny town of Fulong, Taiwan, wedged between the 
 waxy mountain and pacific ocean with his wife and dog. Since Joe already had four people to certify that weekend, he brought 
 in another instructor for us. His name was Steve, an English guy who must have been in his late sixties. As two days of 
@@ -33,14 +33,14 @@ textured personality, and some seriously edgy jokes. He was a hoot to hang aroun
 asshole. I don't think we'd be friends, but we were for the weekend, and it was great.     
 
 We waded into the ocean after an hour or so of re-review, and we were exactly as Steve said we would be: as coordinated as newborn lambs. 
-It took a while to get situated in the water, but by the time we started the second day of diving, being neutrally bouyant felt really natural, and I 
+It took a while to get situated in the water, but by the second day of diving, being neutrally bouyant felt really natural, and I 
 felt really comfortable with my gear. 
 
 Looking through a scuba mask feels just like looking through VR goggles, and the heavy breath sounds you hear in video games and 
-movies--that Darth Vader sound--it's exactly right. It's actually really loud under the water. One of my favorite parts was surfacing,
+movies--that Darth Vader sound--it's exactly right. It was actually really loud under the water. One of my favorite parts was surfacing,
 dropping my regulator from my mouth and hearing nothing but the quiet waves brushing against the rocks. 
 
-We stayed within three or four meters of the surface all weekend to do all our skills, but we're going back sometime in the 
+We stayed within three or four meters of the surface all weekend to do our skills, but we're going back sometime in the 
 next couple weeks to complete our open water dives, and I can't wait. The diving was incredible, even though we barely went anywhere, 
 and the vibes around the dive shop and with all the lifestyle-divers were bright and so, so welcoming. It was 
 such an awesome experience, and it only happened because we made it happen. There was no reason we should have gone scuba diving this weekend; 
