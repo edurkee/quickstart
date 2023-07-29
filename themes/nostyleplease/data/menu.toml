@@ -23,12 +23,16 @@ title = "content categories"
   url = "/archives/taiwanblog/"
 
   [[entries.entries]]
-  title = "taiwan blog redirect through posts folder"
+  title = "taiwan blog (through posts folder)"
   url = "/posts/taiwanblog/"
 
   [[entries.entries]]
   title = "photo album"
   url = "/posts/photo_album/"
+
+  [[entries.entries]]
+  title = "veggie recipies"
+  url = "posts/myfavoriteveggierecipies.md/"
 
 [[entries]]
 title = "things I'm thinking about"
