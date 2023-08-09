@@ -7,11 +7,16 @@ draft: false
 Absolute wackiness that I leave Taiwan in just a couple weeks. When I 
 first arrived, I thought two months was forever. 
 
-But two months is nothing! 
+But two months is nothing!
+
 I’ve just settled in!
+
 I’ve just gotten good at ordering coffee! 
+
 I’ve only recently stopped rehearsing the script in my head before I walk into restaurants and say, “two people”! 
+
 Two months is barely an afternoon!
+
 It’s a moment! 
 
 Granted, I’ve done a ton since of been here. I’ve explored several other 

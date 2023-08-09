@@ -30,4 +30,8 @@ evoo, and whatever else your heart desires.
 
 ///
 
+Elliot's Vegan Chili
+ - Vegan
+ - Top secret. 
 
+///
