@@ -8,10 +8,9 @@ Absolute wackiness that I leave Taiwan in just a couple weeks. When I
 first arrived, I thought two months was forever. 
 
 But two months is nothing! 
-I’ve just settled in! 
+I’ve just settled in!
 I’ve just gotten good at ordering coffee! 
-I’ve only recently stopped rehearsing the script in my head before I walk 
-into restaurants and say, “two people”! 
+I’ve only recently stopped rehearsing the script in my head before I walk into restaurants and say, “two people”! 
 Two months is barely an afternoon!
 It’s a moment! 
 
@@ -56,12 +55,10 @@ attractions of which include an insane number of river-rock potholes (as
 advertised) and a stone slide shaped vaguely like an elephant, stationed 
 along quite a nice river path.
 
-As listed on the sign: “每個人的心中都有一座大象溜滑梯, “ Lit.: “Everyone 
-has an elephant slide in their hearts”. Please email if you know what the 
-heck this means.
+As listed on the sign: “每個人的心中都有一座大象溜滑梯“
+Lit.: “Everyone has an elephant slide in their hearts”. Please email if you know what the heck this means.
 
-Then night out Saturday, and saved Sunday by going up Taipei 101 for 
-sunset! 
+Then night out Saturday, and saved Sunday by going up Taipei 101 for sunset! 
 
 Monday night: tried to go see live music at a venue I’ve been trying to go 
 to for weeks, failed, and then they closed permanently. However, got to 
@@ -99,6 +96,7 @@ hoping they might stick around.
 
 And remember, 每個人的心中都有一座大象溜滑梯, 經濟部水利署第十河川局. (I 
 have figured out what the heck this means)
+
 Lit. “Everyone has an elephant slide in their hearts, The Tenth River 
 Bureau of the Water Conservancy Department of the Ministry of Economic 
 Affairs of NuanNuan.” 
