@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on going on an adventure!</title>
+    <title>Posts on Harvests:</title>
     <link>http://elliotdurkee.com/posts/</link>
-    <description>Recent content in Posts on going on an adventure!</description>
+    <description>Recent content in Posts on Harvests:</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Aug 2023 04:29:50 -0400</lastBuildDate><atom:link href="http://elliotdurkee.com/posts/index.xml" rel="self" type="application/rss+xml" />
