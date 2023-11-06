@@ -5,6 +5,8 @@
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
     {{- end -}}
+    <script>alert("Hello")</script>
+
 </header>
 
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
