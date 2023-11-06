@@ -34,3 +34,4 @@
     back_home_text = ".."
     date_format = "2006.01.02"
     show_description = true
+    description = "you found me!"
