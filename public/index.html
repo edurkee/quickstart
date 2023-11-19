@@ -25,7 +25,15 @@
             <div class="w">
 
 <header>
-    <h1>Harvests:</h1><p></p><script>
+    <h1>Harvests:</h1><p></p>
+        <p id="output"></p></header>
+
+<body>
+    <p id="output"> </p>
+  
+</body>
+
+    <script>
 
          
 	const quotes = [
@@ -40,13 +48,13 @@
 	function generateRandomQuote() {
   		const randomIndex = Math.floor(Math.random() * quotes.length);
   		return quotes[randomIndex];
+		}
 	const result = generateRandomQuote();
-        
-	alert(console.log(result));
-	}
+        document.getElementById('output').textContent = result;
+	
+	
     </script>
 
-</header>
 
 <ul><li>info</li>
             <ul><li><a href="/youcangetelliot@gmail.com">contact me: youcangetelliot@gmail.com</a></li><li>Powered by HUGO, Netlify, Github, and a team of six reindeer</li><li><a href="https://github.com/edurkee/quickstart">github repo</a></li></ul>
