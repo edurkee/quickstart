@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Harvests:</title>
+    <title>Posts on a little bit of everything</title>
     <link>http://elliotdurkee.com/posts/</link>
-    <description>Recent content in Posts on Harvests:</description>
+    <description>Recent content in Posts on a little bit of everything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Aug 2023 04:29:50 -0400</lastBuildDate><atom:link href="http://elliotdurkee.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -19,16 +19,6 @@ Balsamic Tofu
 Vegan pretty quick, ~25 min calls for a bunch of herbs and stuff for the marinade/sauce which is kind of a pain. really tasty though. link: https://dishingouthealth.com/balsamic-tofu-20-minutes/ ///
 Farro Salad
 Vegan Farro, tomatoes, those little balls of cheese, artichoke hearts, basil, evoo, and whatever else your heart desires.</description>
-    </item>
-    
-    <item>
-      <title>photo_album</title>
-      <link>http://elliotdurkee.com/posts/photo_album/</link>
-      <pubDate>Wed, 12 Jul 2023 00:33:35 +0800</pubDate>
-      
-      <guid>http://elliotdurkee.com/posts/photo_album/</guid>
-      <description>coming soon.
-(once i figure out how to make pictures visible)</description>
     </item>
     
   </channel>

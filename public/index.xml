@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Harvests:</title>
+    <title>a little bit of everything</title>
     <link>http://elliotdurkee.com/</link>
-    <description>Recent content on Harvests:</description>
+    <description>Recent content on a little bit of everything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="http://elliotdurkee.com/index.xml" rel="self" type="application/rss+xml" />
@@ -70,10 +70,10 @@ Over the past couple weeks, my routine has started striking some level of consis
     
     <item>
       <title>photo_album</title>
-      <link>http://elliotdurkee.com/posts/photo_album/</link>
+      <link>http://elliotdurkee.com/posts/taiwanblog/photo_album/</link>
       <pubDate>Wed, 12 Jul 2023 00:33:35 +0800</pubDate>
       
-      <guid>http://elliotdurkee.com/posts/photo_album/</guid>
+      <guid>http://elliotdurkee.com/posts/taiwanblog/photo_album/</guid>
       <description>coming soon.
 (once i figure out how to make pictures visible)</description>
     </item>
