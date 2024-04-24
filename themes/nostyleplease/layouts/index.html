@@ -1,4 +1,23 @@
 {{ define "main" }}
+<head>
+    <!-- Existing tags like <title>, <meta>, etc. -->
+
+    <style>
+    body {
+        background: url('/Users/elliot/quickstart/static/background.png') no-repeat center center fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .content {
+        position: relative;
+        z-index: 10; /* Ensure it is above the background */
+        color: white; /* Adjust based on your background image */
+    }
+    </style>
+</head>
 
 <header>
     <h1>{{ $.Site.Title }}</h1>
