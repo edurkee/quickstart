@@ -19,4 +19,19 @@
   {{ $style := $sass | resources.ToCSS $options | resources.Fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
   {{ if .Params.mathjax }} {{ partial "mathjax.html" . }} {{ end }}
+    <style>
+    body {
+        background: url('/images/your-image.png') no-repeat center center fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .content {
+        position: relative;
+        z-index: 10; /* Ensure it is above the background */
+        color: white; /* Adjust based on your background image */
+    }
+    </style>
 </head>
