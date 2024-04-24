@@ -12,26 +12,28 @@
     {{ end }}
   </title>
 
-
+ 
   <link rel="shortcut icon" type="image/x-icon" href="{{ $.Site.Params.favicon | relURL }}" />
   {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }}
   {{ $sass := resources.Get "css/main.scss" }}
   {{ $style := $sass | resources.ToCSS $options | resources.Fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
   {{ if .Params.mathjax }} {{ partial "mathjax.html" . }} {{ end }}
-    <style>
-    body {
-        background: url('images/Artboard.png') no-repeat center center fixed;
+  
+ 
+  <style>
+  body {
+        background: url('/background.png') no-repeat center center fixed;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-    }
+   }
 
-    .content {
+   .content {
         position: relative;
         z-index: 10; /* Ensure it is above the background */
         color: white; /* Adjust based on your background image */
-    }
-    </style>
+   }
+   </style>
 </head>
