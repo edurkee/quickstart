@@ -2,8 +2,8 @@
 title = "info"
 
   [[entries.entries]]
-  title = "contact me: youcangetelliot@gmail.com"
-  url = "youcangetelliot@gmail.com"
+  title = "email me"
+  url = "mailto:youcangetelliot@gmail.com"
 
   [[entries.entries]]
   title = "Powered by HUGO, Netlify, Github, and a team of six reindeer"
@@ -16,11 +16,7 @@ title = "info"
 title = "content categories"
 
   [[entries.entries]]
-  title = "taiwan blog through archives folder (for testing purposes)"
-  url = "/archives/taiwanblog/"
-
-  [[entries.entries]]
-  title = "taiwan blog (through posts folder)"
+  title = "taiwan blog"
   url = "/posts/taiwanblog/"
 
   [[entries.entries]]

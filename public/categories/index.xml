@@ -5,6 +5,16 @@
     <link>http://elliotdurkee.com/categories/</link>
     <description>Recent content in Categories on a little bit of everything</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://elliotdurkee.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://elliotdurkee.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>illustrations</title>
+      <link>http://elliotdurkee.com/categories/illustrations/</link>
+      <pubDate>Sat, 16 Nov 2024 12:00:00 +0000</pubDate>
+      
+      <guid>http://elliotdurkee.com/categories/illustrations/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

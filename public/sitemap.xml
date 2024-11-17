@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://elliotdurkee.com/tags/art/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/categories/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/tags/illustration/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/categories/illustrations/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/illustrations/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/illustrations/fridge/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://elliotdurkee.com/tags/</loc>
+    <lastmod>2024-11-16T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://elliotdurkee.com/posts/</loc>
     <lastmod>2023-08-25T04:29:50-04:00</lastmod>
   </url><url>
@@ -51,10 +72,6 @@
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
     <loc>http://elliotdurkee.com/archives/</loc>
-  </url><url>
-    <loc>http://elliotdurkee.com/categories/</loc>
-  </url><url>
-    <loc>http://elliotdurkee.com/tags/</loc>
   </url><url>
     <loc>http://elliotdurkee.com/archives/taiwanblog/</loc>
   </url>
