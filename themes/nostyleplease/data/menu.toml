@@ -24,8 +24,8 @@ title = "content categories"
   url = "/posts/taiwanblog/"
 
   [[entries.entries]]
-  title = "photo album"
-  url = "/posts/photo_album/"
+  title = "illustrations"
+  url = "/illustrations/"
 
   [[entries.entries]]
   title = "veggie recipies"
